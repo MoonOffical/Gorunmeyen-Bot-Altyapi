@@ -1,0 +1,22 @@
+{
+  "name": "codeworldslash",
+  "version": "1.0.0",
+  "description": "Görünmeyen spam bot altyapı.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JustMoon",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/rest": "^1.1.0",
+    "@discordjs/voice": "^0.18.0",
+    "discord-api-types": "^0.37.5",
+    "discord.js": "^14.3.0",
+    "croxydb": "^0.0.24",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}
